@@ -1,72 +1,162 @@
-# 👋 Welcome to My GitHub – Fatma | Software Test Engineer
+<!-- HEADER WITH BADGES -->
+<h1 align="center">👩‍💻 Fatma | Software Test Engineer</h1>
 
-Hi! I'm **Fatma**, a passionate and detail-oriented **Software Test Engineer** specializing in both **manual** and **automated testing**. I enjoy building scalable test solutions, ensuring software quality, and continuously learning new tools and technologies — especially in the areas of **UI testing, accessibility, and reporting**.
+<p align="center">
+  <i>Quality Advocate | Automation Learner | Accessibility Focused</i>
+</p>
 
----
-
-## 💼 Featured Projects
-
-Here are some of the key projects I've worked on and continue to enhance:
-
-### 🔹 [HolidayBookingWebsite](https://github.com/your-username/HolidayBookingWebsite)
-Automation project for testing booking workflows in a holiday reservation website. Focused on end-to-end test coverage, edge case scenarios, and UI validations.
-
-- ✔️ Technologies: Java, Selenium WebDriver, TestNG
-- 📊 Functional tests with detailed assertions and reusable methods
-- Accessibility Report
-- Extends Report and Allure Report
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Software%20Tester-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Accessibility%20%26%20Automation-ff69b4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Java-Selenium-orange?style=flat-square" />
+</p>
 
 ---
 
-### 🔹 [OrangeHRM](https://github.com/your-username/OrangeHRM)
-Test automation framework for OrangeHRM web app, focusing on login, employee management, and leave modules.
+## 👋 About Me
 
-- ✔️ Page Object Model structure
-- 🧪 Includes positive & negative test cases
-- 🔐 Covers access control and admin functionalities
+I'm a passionate **Software Test Engineer** focused on delivering high-quality web experiences. I specialize in:
 
----
-
-### 🔹 [MyStore](https://github.com/your-username/MyStore)
-E-commerce test suite for automating cart, checkout, and payment functionalities.
-
-- ✔️ Automation using Java + Selenium
-- 📦 Regression scenarios for UI and functional bugs
-- 🔍 Includes custom assertions and detailed logs
+- ✔️ Manual & UI Testing
+- ✔️ Accessibility (WCAG) Auditing using **axe-core**
+- ✔️ Automation with **Java + Selenium**
+- ✔️ Building custom **HTML reports** for stakeholders
 
 ---
 
-### 🔹 [TestAutomationWebsite](https://github.com/your-username/TestAutomationWebsite)
-Custom-built website for testing purposes – used as a playground to practice and demonstrate automated testing techniques.
+## 🚀 Featured Projects
 
-- 🛠️ Self-created testable components (forms, tables, alerts)
-- 💡 Integrated with axe-core for accessibility checks
-- 📄 Custom HTML reporting implementation
+### 📊 Accessibility Report Generator
+Custom HTML reporting system for accessibility violations, built using Java, Selenium, and axe-core.
 
----
-
-## 📚 What I'm Currently Learning
-
-- 📌 Accessibility testing using **axe-core** with WCAG 2.1 compliance
-- 📌 Enhancing **custom HTML reports** using Java and Selenium
-- 📌 Writing modular, maintainable automation frameworks
+[🔗 View Repo](https://github.com/your-username/accessibility-report)
 
 ---
 
-## 🛠️ Tools & Technologies
+### 🧪 UI Functional Testing Framework
+Reusable test framework with TestNG, Page Object Model, and HTML reporting.
 
-| Area                 | Tools & Technologies                                         |
-|----------------------|--------------------------------------------------------------|
-| 🧪 Test Automation   | Java, Selenium WebDriver, TestNG, JUnit                      |
-| 📊 Reporting         | Custom Extend  Reports, Allure (basic)                         |
-| ♿ Accessibility      | axe-core, WAVE                                              |
-| 🧰 Other Tools       | Git, GitHub, IntelliJ IDEA,                |
+[🔗 View Repo](https://github.com/your-username/ui-functional-tests)
 
 ---
 
-## 📫 Let’s Connect
+### 🌐 Web Accessibility Dashboard (Coming Soon)
+Interactive dashboard to visualize accessibility test results.
 
-- 💼 [LinkedIn – Fatma E.](https://linkedin.com/in/fatma-e-ba9bb3198)
+---
 
-> 🔍 I'm always looking to learn, grow, and collaborate. Feel free to check out my repositories or connect with me professionally on LinkedIn!
+## 🛠️ Tech Stack & Tools
+
+| Category          | Tools & Frameworks |
+|-------------------|--------------------|
+| Languages         | Java, HTML, CSS    |
+| Automation        | Selenium, TestNG   |
+| Accessibility     | axe-core, WAVE     |
+| API Testing       | Postman, RestAssured (learning) |
+| Reporting         | Custom HTML, Allure |
+| CI/CD             | GitHub Actions (learning) |
+| Others            | Git, GitHub, Jira  |
+
+---
+
+## 📚 Currently Learning
+
+- Java OOP for better automation design
+- Advanced reporting techniques with charts
+- Writing maintainable test frameworks
+- REST API testing & schema validation
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](<!-- HEADER WITH BADGES -->
+<h1 align="center">👩‍💻 Fatma | Software Test Engineer</h1>
+
+<p align="center">
+  <i>Manual Testing | Automation Learner | Accessibility Focused</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Software%20Tester-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Accessibility%20%26%20Automation-ff69b4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Java-Selenium-orange?style=flat-square" />
+</p>
+
+---
+
+## 👋 About Me
+
+I'm a passionate **Software Test Engineer** focused on delivering high-quality web experiences. I specialize in:
+
+- ✔️ Manual & UI Testing
+- ✔️ Accessibility (WCAG) Auditing using **axe-core**
+- ✔️ Automation with **Java + Selenium**
+- ✔️ Building custom **HTML reports** for stakeholders
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Accessibility Report Generator
+Custom HTML reporting system for accessibility violations, built using Java, Selenium, and axe-core.
+
+[🔗 View Repo](https://github.com/your-username/accessibility-report)
+
+---
+
+### 🧪 UI Functional Testing Framework
+Reusable test framework with TestNG, Page Object Model, and HTML reporting.
+
+[🔗 View Repo](https://github.com/your-username/ui-functional-tests)
+
+---
+
+### 🌐 Web Accessibility Dashboard (Coming Soon)
+Interactive dashboard to visualize accessibility test results.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+| Category          | Tools & Frameworks |
+|-------------------|--------------------|
+| Languages         | Java, HTML, CSS    |
+| Automation        | Selenium, TestNG   |
+| Accessibility     | axe-core, WAVE     |
+| API Testing       | Postman, RestAssured (learning) |
+| Reporting         | Custom HTML, Allure |
+| CI/CD             | GitHub Actions (learning) |
+| Others            | Git, GitHub, Jira  |
+
+---
+
+## 📚 Currently Learning
+
+- Java OOP for better automation design
+- Advanced reporting techniques with charts
+- Writing maintainable test frameworks
+- REST API testing & schema validation
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 Email: bata_ebeed@yahoo.com
+- 🌐 [Portfolio](https://your-portfolio.com) 
+
+---
+
+<p align="center">
+  <i>“Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin</i>
+</p>
+)
+- 📧 Email: your.email@example.com
+- 🌐 [Portfolio](https://your-portfolio.com) 
+
+---
+
+<p align="center">
+  <i>“Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin</i>
+</p>
