@@ -25,27 +25,22 @@ I'm a passionate **Software Test Engineer** focused on delivering high-quality w
 - ✔️ Building custom **HTML reports** for stakeholders
 
 ---
+## 🚀 Projects & Practice Work (Self-Learning Journey)
 
-## 🚀 Featured Projects
+All projects listed below are created as part of my continuous **self-learning and professional development** journey.  
+Each one reflects the application of new skills I've studied, including **Selenium WebDriver with Java**, **TestNG**, **Page Object Model (POM)**, **accessibility testing using axe-core**, and more.
 
-### 📊 Accessibility Report Generator
-Custom HTML reporting system for accessibility violations, built using Java, Selenium, and axe-core.
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Accessibility Testing Framework](https://github.com/your-username/project-name) | Dynamic HTML reporting of accessibility issues using Selenium + axe-core | Java, Selenium, axe-core, HTML |
+| [POS Testing Simulation](https://github.com/your-username/project-name) | Manual & automated simulation of Tills (POS) testing | AutoIt, Java, Excel |
+| [Test Automation Framework](https://github.com/your-username/project-name) | Custom-built test framework using POM and TestNG | Java, Selenium, TestNG |
+| [BDD Practice Tests](https://github.com/your-username/project-name) | Practice scenarios using Gherkin & BDD principles | Java, Cucumber, Gherkin |
 
-[🔗 View Repo](https://github.com/your-username/accessibility-report)
-
----
-
-### 🧪 UI Functional Testing Framework
-Reusable test framework with TestNG, Page Object Model, and HTML reporting.
-
-[🔗 View Repo](https://github.com/your-username/ui-functional-tests)
-
----
-
-### 🌐 Web Accessibility Dashboard (Coming Soon)
-Interactive dashboard to visualize accessibility test results.
+📝 **Note:** All work is independently created as part of **self-study and exploration**, aiming to deepen my understanding of software testing and automation best practices.
 
 ---
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -59,14 +54,6 @@ Interactive dashboard to visualize accessibility test results.
 | CI/CD             | GitHub Actions (learning) |
 | Others            | Git, GitHub, Jira  |
 
----
-
-## 📚 Currently Learning
-
-- Java OOP for better automation design
-- Advanced reporting techniques with charts
-- Writing maintainable test frameworks
-- REST API testing & schema validation
 
 ---
 
