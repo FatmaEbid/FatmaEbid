@@ -4,7 +4,9 @@
 <p align="center">
   <i>Quality Advocate | Automation Learner | Accessibility Focused</i>
 </p>
-
+<p align="center">
+  <i>I'm certified in <B>**ISTQB® CTFL and Agile Tester (CTFL-AT)**</B></i>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Software%20Tester-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Accessibility%20%26%20Automation-ff69b4?style=flat-square" />
